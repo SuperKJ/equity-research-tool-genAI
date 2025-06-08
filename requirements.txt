@@ -1,0 +1,6 @@
+numpy 
+pandas
+langchain
+libmagic 
+python-magic 
+python-magic-bin

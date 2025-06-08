@@ -4,3 +4,5 @@ langchain
 libmagic 
 python-magic 
 python-magic-bin
+faiss
+sentence-transformers
